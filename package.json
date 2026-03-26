@@ -8,11 +8,12 @@
     "dev": "nodemon server.js"
   },
   "dependencies": {
-    "express": "^4.19.2",
-    "cors": "^2.8.5",
-    "dotenv": "^16.4.5",
-    "@supabase/supabase-js": "^2.45.4",
-    "nanoid": "^5.0.7"
+    "@supabase/supabase-js": "^2.100.0",
+    "axios": "^1.13.6",
+    "cors": "^2.8.6",
+    "dotenv": "^16.6.1",
+    "express": "^4.22.1",
+    "nanoid": "^5.1.7"
   },
   "devDependencies": {
     "nodemon": "^3.1.4"
